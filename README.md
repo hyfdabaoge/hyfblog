@@ -1,7 +1,9 @@
 # hyfblog
 
 > A Vue.js project
+
 ![image](https://github.com/hyfdabaoge/hyfblog/blob/master/screenshots/Video_2017-06-06_112919_20170606120005.gif?raw=true)   
+
 ## Build Setup
 
 ``` bash
