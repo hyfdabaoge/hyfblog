@@ -20,8 +20,15 @@
 ``` bash
 # install dependencies
 npm install
+#1.开启mongodb cd mongodb/bin
 
-# serve with hot reload at localhost:8080
+./mongod --dbpath=h:/mongodb/data/db(根据自己的目录做适当修改)
+
+#2. 开启服务端  进入项目目录 cd server
+
+node app
+
+#3.
 npm run dev
 
 
