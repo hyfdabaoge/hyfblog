@@ -8,6 +8,7 @@
 
 ![image](https://github.com/hyfdabaoge/hyfblog/blob/master/screenshots/Video_2017-06-06_113455_20170606120748.gif?raw=true)
 
+本项目以学习为目的。参考自https://github.com/elva2596/vueBlog
 ## Build Setup
 
 ``` bash
