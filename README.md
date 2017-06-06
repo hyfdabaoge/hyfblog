@@ -2,7 +2,11 @@
 
 > A Vue.js project
 
-![image](https://github.com/hyfdabaoge/hyfblog/blob/master/screenshots/Video_2017-06-06_112919_20170606120005.gif?raw=true)   
+技术栈：
+客户端=> vue2.0+vue2-router+axios+element-ui
+服务端=> express+mongodb(mongoose)
+
+![image](https://github.com/hyfdabaoge/hyfblog/blob/master/screenshots/Video_2017-06-06_112919_20170606120005.gif?raw=true)  ： 
 
 ![image](https://github.com/hyfdabaoge/hyfblog/blob/master/screenshots/Video_2017-06-06_113206_20170606120521.gif?raw=true)
 
